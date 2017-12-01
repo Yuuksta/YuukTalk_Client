@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-YuukTalk_Client-QtStatic-Release/sunset.jpg</file>
+    </qresource>
+</RCC>
